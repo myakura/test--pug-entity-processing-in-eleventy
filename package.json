@@ -1,0 +1,13 @@
+{
+  "name": "test--pug-entity-processing-in-eleventy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "eleventy",
+    "eleventy": "eleventy"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
